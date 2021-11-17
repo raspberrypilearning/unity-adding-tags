@@ -8,10 +8,10 @@ Select a GameObject and set the 'Tag' to `Player` using the drop-down menu in th
 
 You can also add tags. 
 
-Choose any GameObject and click 'Add Tag' in the Inspector then name the tags.
+Choose any GameObject .
 
 **Tip:** 'Add Tag' only creates a new Tag is does not apply it to the GameObject you selected. 
 
-To apply a Tag to a GameObject, select the GameObject and set the tag from the drop-down menu in the Inspector.
+To apply a Tag to a GameObject, select the GameObject and click on the tag dropdown and choose 'Add Tag...' and give your tag a name.
 
 **Tip:** You can select multiple GameObjects using 'Shift' or 'Ctrl' and then clicking on them. If you set the Tag in the Inspector with multiple GameObjects selected then the tag will be applied to all of them. 
