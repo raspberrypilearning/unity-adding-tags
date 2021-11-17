@@ -1,59 +1,17 @@
-## Introduction
+In Unity, a Tag can be applied to one or more GameObjects so that they can easily be identified. 
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+The 'Player' tag is included in Unity. 
 
-### What you will make
+Select a GameObject and set the 'Tag' to `Player` using the drop-down menu in the Inspector:
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![The inspector window with Tag dropdown menu showing Unity default tags including 'Player' tag.](images/tag-menu.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+You can also add tags. 
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Choose any GameObject and click 'Add Tag' in the Inspector then name the tags.
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+**Tip:** 'Add Tag' only creates a new Tag is does not apply it to the GameObject you selected. 
 
-+ A computer or tablet capable of running Scratch 3
+To apply a Tag to a GameObject, select the GameObject and set the tag from the drop-down menu in the Inspector.
 
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](http://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](http://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+**Tip:** You can select multiple GameObjects using 'Shift' or 'Ctrl' and then clicking on them. If you set the Tag in the Inspector with multiple GameObjects selected then the tag will be applied to all of them. 
