@@ -1,17 +1,17 @@
-In Unity, a Tag can be applied to one or more GameObjects so that they can easily be identified.
+In Unity kan een tag worden toegepast op een of meer GameObjects, zodat ze gemakkelijk kunnen worden geïdentificeerd.
 
-The Player tag is included in Unity.
+De Player-tag is opgenomen in Unity.
 
-Select a GameObject and set the Tag to `Player` using the drop-down menu in the Inspector:
+Selecteer een GameObject en stel de tag in op `Player` met behulp van het vervolgkeuzemenu in de Inspector:
 
-![The Inspector window with Tag drop-down menu showing the Unity default tags including the 'Player' tag.](images/tag-menu.png)
+![Het Inspector venster met het vervolgkeuzemenu Tag met de standaard Unity-tags, inclusief de tag 'Player' ('speler').](images/tag-menu.png)
 
-You can also add tags.
+Je kunt ook tags toevoegen.
 
-Choose any GameObject.
+Kies een GameObject.
 
-**Tip:** **Add Tag** only creates a new tag, it does not apply it to the GameObject you selected.
+**Tip:** **Add Tag** maakt alleen een nieuwe tag aan, maar past deze niet toe op het GameObject dat je hebt geselecteerd.
 
-To apply a tag to a GameObject, select the GameObject and click on the tag drop-down menu and choose **Add Tag...** and give your tag a name.
+Om een tag toe te passen op een GameObject, selecteer je het GameObject en klik je op het vervolgkeuzemenu en kies je **Add Tag..** en geef je tag een naam.
 
-**Tip:** You can select multiple GameObjects using <kbd>Shift</kbd> or <kbd>Ctrl</kbd> and then clicking on them. If you set the tag in the Inspector with multiple GameObjects selected, then the tag will be applied to all of the selected GameObjects. 
+**Tip:** Je kunt meerdere GameObjects selecteren met <kbd>Shift</kbd> of <kbd>Ctrl</kbd> en dan erop klikken. Als je de tag in de Inspector instelt met meerdere GameObjects geselecteerd, wordt de tag op alle objecten toegepast. 
