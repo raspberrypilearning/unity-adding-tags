@@ -12,6 +12,6 @@ Kies een GameObject.
 
 **Tip:** **Add Tag** maakt alleen een nieuwe tag aan, maar past deze niet toe op het GameObject dat je hebt geselecteerd.
 
-Om een tag toe te passen op een GameObject, selecteer je het GameObject en klik je op het vervolgkeuzemenu en kies je **Add Tag...** en geef je tag een naam.
+Om een tag toe te passen op een GameObject, selecteer je het GameObject en klik je op het vervolgkeuzemenu en kies je **Add Tag...** en geef je je tag een naam.
 
 **Tip:** Je kunt meerdere GameObjects selecteren met <kbd>Shift</kbd> of <kbd>Ctrl</kbd> en dan erop klikken. Als je de tag in de Inspector instelt met meerdere GameObjects geselecteerd, wordt de tag op alle objecten toegepast. 
